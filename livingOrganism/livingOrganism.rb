@@ -12,4 +12,4 @@ end
 #
 # cell.alive
 
-LivingOrganism.alive
+# LivingOrganism.alive

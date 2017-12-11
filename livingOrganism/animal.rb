@@ -29,11 +29,11 @@ class Animal < LivingOrganism
 
 end
 
-Animal.alive
-
-Animal.traits
-Animal.breathe
-Animal.eat
-Animal.drink
-Animal.speak
-Animal.procreate
+# Animal.alive
+#
+# Animal.traits
+# Animal.breathe
+# Animal.eat
+# Animal.drink
+# Animal.speak
+# Animal.procreate
