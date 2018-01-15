@@ -1,7 +1,6 @@
 # sparta-oop-recap
 
-
-Repo created for a quick approach of how to manage a Superclass, linking it to our different services.
+This was a repo created to recap OOP concepts like Modules and Classes, when and how to call them by requiring relatives and importing external files.
 This also helped us having a more clear notion of the concept of class, method and the different instances we can have along our code.
 
 ### Resources
